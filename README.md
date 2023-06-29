@@ -1,12 +1,12 @@
-# Ангары и сельхозтехника от производителя #
+# Описание#
 
-сайт строительной компании.
+Описание сайта.
 
-Сайт написан на HTML.CSS.JS. В рамках экзаменационного проэкта обучения в IT Academy
+Сайт написан на HTML.CSS.JS. В рамках экзаменационного проэкта обучения в RS-Schol
 
-[Github Pages](https://sergeigolovkin.github.io/agricultural_machinery/)
+[Github Pages](https://github.com/SergeiGolovkin/rsschool-cv)
 
 ![Скриншот сайта](./screenshot.png )
 
 
-[Исходный макет на Figma](https://www.figma.com/file/MQXAXWxvh7OGybJMmGPasv/%D1%81%D0%B5%D0%BB%D1%8C%D1%85%D0%BE%D0%B7%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0?type=design&node-id=23-8&t=95yZlSYYct2A1YOd-0)
+[Исходный макет на Figma](https://www.figma.com/)
